@@ -6,4 +6,4 @@ bot = commands.Bot(command_prefix = "+")
 async def on_ready():
 	  print("Ready +")
 
-client.run("Nzg0NTE1MzcwNTY3OTkxMzQ3.X8qa3w.S86_s4kfIn78Or8PNq0V6_eCO9k")
+client.run("Nzg0NTE1MzcwNTY3OTkxMzQ3.X8qa3w.YdEx89CU5KO7pmFOvW1at0qHMuA")
